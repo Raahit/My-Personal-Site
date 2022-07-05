@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(171, 218, 202);
+    text-align: center;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.topcontainer{
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
